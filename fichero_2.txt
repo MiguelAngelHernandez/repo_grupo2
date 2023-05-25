@@ -1,0 +1,2 @@
+liena 1 fichero 2
+linea 2 fichero 2
